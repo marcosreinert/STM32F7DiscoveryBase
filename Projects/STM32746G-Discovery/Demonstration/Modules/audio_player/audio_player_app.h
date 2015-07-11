@@ -35,7 +35,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-#include "..\Common\audio_if.h"   
+#include "../Common/audio_if.h"
 #include "spiritEQ.h"
 #include "spiritLdCtrl.h"
    

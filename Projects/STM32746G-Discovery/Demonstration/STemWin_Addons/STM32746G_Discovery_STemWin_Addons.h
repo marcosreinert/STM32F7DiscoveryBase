@@ -36,7 +36,7 @@
 /* Includes ------------------------------------------------------------------*/   
 #include "GUI.h"
 #include "WM.h"
-#include "Dialog.h"
+#include "DIALOG.h"
 
 #ifndef GUI_CONST_STORAGE
   #define GUI_CONST_STORAGE const

@@ -79,7 +79,7 @@ static void TimerCallback(void const *n);
 
 extern K_ModuleItem_Typedef  video_player_board;
 extern K_ModuleItem_Typedef  audio_player_board;
-extern K_ModuleItem_Typedef  devices_board;
+//extern K_ModuleItem_Typedef  devices_board;
 extern K_ModuleItem_Typedef  games_board;
 extern K_ModuleItem_Typedef  gardening_control_board;
 extern K_ModuleItem_Typedef  home_alarm_board;

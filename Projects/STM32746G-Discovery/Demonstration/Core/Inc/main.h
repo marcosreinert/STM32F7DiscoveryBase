@@ -53,8 +53,8 @@
 #include "sd_diskio.h"
    
 /* GUI includes components */
-#include "gui.h"
-#include "dialog.h"
+#include "GUI.h"
+#include "DIALOG.h"
 #include "STM32746G_Discovery_STemWin_Addons.h"
 
  /* Kernel includes components */

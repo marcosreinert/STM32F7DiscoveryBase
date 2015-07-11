@@ -35,7 +35,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-#include "..\Common\audio_if.h"   
+#include "../Common/audio_if.h"
 /* Exported constants --------------------------------------------------------*/
 #define DEFAULT_REC_AUDIO_VOLUME                   98
 /* Exported types ------------------------------------------------------------*/
